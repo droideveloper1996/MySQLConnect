@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "20325025247",
+    "firebase_url": "https://mysqlconnect-87b44.firebaseio.com",
+    "project_id": "mysqlconnect-87b44",
+    "storage_bucket": "mysqlconnect-87b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20325025247:android:b44ea02d177ed3ec",
+        "android_client_info": {
+          "package_name": "connect.msql.com.mysqlconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20325025247-1mq4u0nnep3detmksonua38okitkhjso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "connect.msql.com.mysqlconnect",
+            "certificate_hash": "c36607ae9e2728bcdf1085288c3374f7dd2aa202"
+          }
+        },
+        {
+          "client_id": "20325025247-45fm0l6ido8a16aqgm3ndtkepc78rl94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDl5Cs-Ui7L970t6ZrYeJZIwx9IvZDP4g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20325025247-45fm0l6ido8a16aqgm3ndtkepc78rl94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
